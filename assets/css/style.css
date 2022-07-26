@@ -511,3 +511,6 @@ h6,
 .social a:hover {
   color: #000;
 }
+.list-unstyled span.ml-auto {
+    margin-left: 10px;
+}
